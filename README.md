@@ -1,0 +1,2 @@
+# easypage
+Cloudflare Pages Demo
